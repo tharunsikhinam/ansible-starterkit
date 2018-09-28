@@ -1,0 +1,4 @@
+---
+
+application_directory: "/opt/myapplication"
+application_log_directory: "/var/log/myapplication"

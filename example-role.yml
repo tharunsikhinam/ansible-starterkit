@@ -1,0 +1,6 @@
+---
+- name: runs the dummy role
+  hosts: app-servers
+  sudo: yes
+  roles:
+    - example-role

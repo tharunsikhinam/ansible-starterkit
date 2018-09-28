@@ -1,0 +1,2 @@
+[app-servers]
+localhost ansible_ssh_user=tharun ansible_ssh_pass=quikr@123 ansible_sudo_pass=quikr@123

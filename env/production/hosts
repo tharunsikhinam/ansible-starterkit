@@ -1,0 +1,2 @@
+[app-servers]
+192.168.0.2 ansible_ssh_user=production ansible_ssh_pass=production_password ansible_sudo_pass=production_pass

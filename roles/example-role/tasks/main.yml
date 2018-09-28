@@ -1,0 +1,6 @@
+- name: Make my application directory
+  file: path={{ application_directory }} state=directory mode=755
+
+- name: Make my application log directory
+  file: path={{ application_log_directory }} state=directory  mode=755
+
