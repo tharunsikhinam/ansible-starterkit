@@ -1,5 +1,5 @@
 ---
-- name: runs the dummy role
+- name: runs the test role
   hosts: app-servers
   sudo: yes
   roles:
